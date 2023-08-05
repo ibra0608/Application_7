@@ -41,7 +41,7 @@ header .top .container .info ul li {
 header .top .container .info ul li a {
 	text-decoration: none;
 	position: relative;
-	top: -12px;
+	top: -5px;
 	list-style: none;
 	color: #d0d0d0;
 	font-size: 14px;
@@ -91,7 +91,7 @@ header .middle .container .left i {
 	position: absolute;
 	left: 19.5%;
 	font-size: 15px;
-	top: 100px;
+	top: 90px;
 	cursor: pointer;
 	color: #757575;
 }
@@ -165,7 +165,7 @@ header nav .container ul {
 	justify-content: center;
 	align-items: center;
 	flex-wrap: wrap;
-	padding-top: 12px;
+	padding-top: 20px;
 }
 header nav .container ul li {
 	list-style: none;
@@ -178,7 +178,7 @@ header nav .container ul li a {
 	color: #ffffff;
 	text-transform: uppercase;
 	transition: all 0.5s;
-	padding: 24px 18px;
+	padding: 24px 15px 27px 15px;
 	transition: all 0.2s;
 }
 header nav ul li a:hover {
